@@ -1,0 +1,91 @@
+body {
+    font-family: sans-serif;
+}
+
+header { 
+    background-color: #F2C48D;
+    border-radius: 15px;
+    border: 5px solid #BF8484;
+    color: #564D8C;
+}
+
+.logo {
+    padding: 5px;
+    margin: 5px;
+    vertical-align: middle;
+}
+
+header a {
+    text-decoration: none;
+    color: #564D8C;
+    background-color: #95A67C;
+    border-radius: 10px;
+    padding: 7px;
+    margin: 7px;
+}
+
+h1 {
+    text-align: center;
+    color: #564D8C;
+    border-radius: 15px;
+    background-color: #F2C48D;
+    font-size: 45px;
+}
+
+footer {
+    background-color: #F2C48D;
+    border-radius: 15px;
+    border: 5px solid #BF8484;
+    color: #564D8C;
+    padding: 7px;
+    margin: 7px;
+}
+
+footer p {
+    background-color: #95A67C;
+    border-radius: 15px;
+    padding: 7px;
+    margin: 7px;
+}
+
+nav a {
+    background-color: #95A67C;
+    border-radius: 10px;
+    padding: 7px;
+    margin: 7px;
+    color: #564D8C;
+    text-decoration: none;
+}
+
+nav {
+    text-align: center;
+    vertical-align: middle;
+}
+
+h2 {
+    text-align: center;
+    color: #564D8C;
+    border-radius: 15px;
+    background-color: #F2C48D;
+}
+
+table td {
+    padding: 35px;
+    color: #564D8C;
+    text-align: center;
+    border-radius: 15px;
+    border: 3px solid #BF8484;
+}
+
+main a {
+    background-color: #95A67C;
+    border-radius: 10px;
+    padding: 7px;
+    margin: 7px;
+    color: #564D8C;
+    text-decoration: none;
+}
+
+main p {
+    color: #564D8C;
+}
